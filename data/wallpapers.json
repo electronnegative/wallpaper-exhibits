@@ -12,6 +12,20 @@
       "image": "assets/wallpapers/sample.jpg",
       "featured": true,
       "dateAdded": "2026-06-24"
-    }
+    },
+    {
+  "id": 1782319870791,
+  "title": "Abstract Mountain ",
+  "description": "Abstract mountain illustration",
+  "category": "Abstract",
+  "tags": [
+    "abstract",
+    "illustration",
+    "simple"
+  ],
+  "image": "assets/wallpapers/mountain-01.jpg",
+  "featured": true,
+  "dateAdded": "2026-06-24"
+}
   ]
 }
