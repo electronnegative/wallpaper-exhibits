@@ -1,0 +1,17 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "Sample Wallpaper",
+      "description": "Replace with your own wallpaper.",
+      "category": "Nature",
+      "tags": [
+        "4k",
+        "sample"
+      ],
+      "image": "assets/wallpapers/sample.jpg",
+      "featured": true,
+      "dateAdded": "2026-06-24"
+    }
+  ]
+}
